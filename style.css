@@ -1,0 +1,55 @@
+body {
+    background-color: #ffc21c;
+
+}
+h1 {
+    color: rgb(249, 111, 5);
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+p {
+    padding: 30px;
+}
+img {
+    text-align: center;
+}
+
+#circle-lasagna {
+    display: block;
+    margin: 0 auto;
+    border: 5px solid rgb(249, 111, 5);
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+
+}
+
+.home {
+    font-size: 25px;
+    padding: 20;
+    color: rgb(249, 111, 5);
+}
+.idxp {
+    text-align: center;
+    font-size: 20px;
+}
+.index-li {
+    color:rgb(249, 111, 5);
+    text-align: center;
+    font-size: 30px;
+}
+a {
+    color: white;
+    text-decoration: underline;
+}
+a:hover {
+    color: rgb(249, 111, 5);
+}
+
+ol {
+    padding-bottom: 50px;
+}
